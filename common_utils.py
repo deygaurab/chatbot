@@ -1,0 +1,1 @@
+ALATION_HEALTH_URL = 'https://datacatalog.intuit.com:8080/api/v1/health/full'
